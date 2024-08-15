@@ -39,7 +39,6 @@ conflicts_rm2os3=(
     innernet-client
     gocryptfs
     remarkable-stylus
-    open-remarkable-shutdown
 )
 replaces_rm2os3=(
     ddvk-hacks
@@ -48,7 +47,6 @@ replaces_rm2os3=(
     innernet-client
     gocryptfs
     remarkable-stylus
-    open-remarkable-shutdown
 )
 
 source=()
